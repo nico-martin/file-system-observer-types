@@ -1,0 +1,17 @@
+{
+  "name": "@types/file-system-observer",
+  "version": "1.0.0",
+  "description": "TypeScript definitions for FileSystemObserver",
+  "author": "Nico Martin <mail@nico.dev>",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "definitions",
+    "filesystem",
+    "observer",
+    "file-system-observer"
+  ],
+  "type": "commonjs",
+  "types": "index.d.ts",
+  "dependencies": {}
+}
